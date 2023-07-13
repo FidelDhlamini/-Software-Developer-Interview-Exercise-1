@@ -1,0 +1,15 @@
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.csproj.AssemblyReference.cache
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.AssemblyInfoInputs.cache
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.AssemblyInfo.cs
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\bin\Debug\net7.0\Software Developer Interview Exercise 1.exe
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\bin\Debug\net7.0\Software Developer Interview Exercise 1.deps.json
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\bin\Debug\net7.0\Software Developer Interview Exercise 1.runtimeconfig.json
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\bin\Debug\net7.0\Software Developer Interview Exercise 1.dll
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\bin\Debug\net7.0\Software Developer Interview Exercise 1.pdb
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.dll
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\refint\Software Developer Interview Exercise 1.dll
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.pdb
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\Software Developer Interview Exercise 1.genruntimeconfig.cache
+C:\Users\Fidel\Documents\Coding Projects\Software Developer Interview Exercise 1\obj\Debug\net7.0\ref\Software Developer Interview Exercise 1.dll
